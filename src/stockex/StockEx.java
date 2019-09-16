@@ -6,6 +6,7 @@
 package stockex;
 
 import stockex.view.LoginFrame;
+import stockex.view.MainFrame;
 
 /**
  *
@@ -17,8 +18,8 @@ public class StockEx {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        LoginFrame login = new LoginFrame();
-        login.show();
+//        new LoginFrame().show();
+        new MainFrame().show();
     }
     
 }

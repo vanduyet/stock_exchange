@@ -3,8 +3,13 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+            <file>file:/home/zrik/Documents/Java/StockEx/src/entitis/dao/ConnectDB.java</file>
             <file>file:/home/zrik/Documents/Java/StockEx/src/stockex/view/MainFrame.java</file>
+            <file>file:/home/zrik/Documents/Java/StockEx/src/entitis/dao/DAOImp.java</file>
+            <file>file:/home/zrik/Documents/Java/StockEx/src/stockex/util/DataProperties.java</file>
             <file>file:/home/zrik/Documents/Java/StockEx/src/stockex/view/LoginFrame.java</file>
+            <file>file:/home/zrik/Documents/Java/StockEx/src/entitis/dao/DAO.java</file>
+            <file>file:/home/zrik/Documents/Java/StockEx/src/entitis/Company.java</file>
             <file>file:/home/zrik/Documents/Java/StockEx/src/stockex/StockEx.java</file>
         </group>
     </open-files>
